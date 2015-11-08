@@ -1,0 +1,1 @@
+This is a collection of tools to process documents for their use in NLP tools, specifically Weka. It contains methods to transform a set of documents to a weka-compatible ARFF format, complete with the use of stop words and stemmers (the original Porter stemmer implementation is included).
